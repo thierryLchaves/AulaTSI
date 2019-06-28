@@ -19,6 +19,7 @@ public class CassioAula {
         
         
        System.out.print("Olá mundo");
+        System.out.print("Olá mundo");
     }
     
 }
